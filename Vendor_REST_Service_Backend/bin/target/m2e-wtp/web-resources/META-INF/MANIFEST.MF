@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: vendorservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: divya.madhanasekar
+Implementation-Vendor-Id: com.accenture.lkm
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/vendorservic
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
